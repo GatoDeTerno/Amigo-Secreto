@@ -44,7 +44,7 @@
 
 # Acesso ao Projeto
 <p>Jogo disponível no diretório</p>
-<a href="https://github.com/GatoDeTerno/Amigo-Secreto">Jogo do Amigo Secreto</a>
+<a href="https://github.com/GatoDeTerno/Amigo-Secreto/blob/main/challenge-amigo-secreto_pt-main.rar">Jogo do Amigo Secreto</a>
 
 # Tecnologias Utilizadas
 <p>jogo feito usando HTML, CSS e JavaScript</p>
