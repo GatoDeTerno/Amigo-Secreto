@@ -43,7 +43,7 @@
 <img src="https://github.com/GatoDeTerno/Amigo-Secreto/blob/main/challenge-amigo-secreto_pt-main/assets/instru%C3%A7%C3%A3o%204.jpg">
 
 # Acesso ao Projeto
-<p>Jogo disponível no diretório</p>
+<p>Jogo disponível no Repositório</p>
 <a href="https://github.com/GatoDeTerno/Amigo-Secreto/blob/main/challenge-amigo-secreto_pt-main.rar">Jogo do Amigo Secreto</a>
 
 # Tecnologias Utilizadas
